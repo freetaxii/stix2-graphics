@@ -61,5 +61,5 @@ STIX2 SCO Network Traffic Icons
 
 STIX2 SCO Account and Email Icons
 
-![STIX2 SCO Account and Email Icons(https://freetaxii.github.io/stix2_0/icons/stix2-sco-account-email-icons.png)
+![STIX2 SCO Account and Email Icons](https://freetaxii.github.io/stix2_0/icons/stix2-sco-account-email-icons.png)
 
